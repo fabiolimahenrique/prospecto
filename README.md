@@ -6,7 +6,4 @@ Angular
 ## Banco de dados 
 Postgres
 
-
-
-
 Foi baseado em um exemplo desenvolvido no cafe.algaworks.com
